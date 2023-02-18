@@ -110,21 +110,7 @@ JavaScript Questions solved in this Repo:-
 
 27. Write a program to print all the prime number between 0 to 100 (0 and 100 included).
 
-28. Write a program to print the given patterns using the loops-
-	a. Print a triangle pattern, if the given input is 3 then the pattern should be similar to the given output
-	   *
-	   **
-	   ***
-	
-	b. Print a square pattern, if the input is 3 then the output should be similar to the given output
-	   ***
-	   ***
-	   ***
-
-	c. Print a pyramid pattern, if the input is 3 then the output should be similar to the given output
-	     *
-	    ***
- 	   *****
+28. Write a program to print the pyramid patterns using the loops
 
 29. Write a javascript program which takes the input of filename as string and prints the extension of the file in the console.
 
